@@ -1,0 +1,12 @@
+.demo 
+{
+    text-align: center;
+    padding: 30%;
+    border: 2px;
+    border-radius: 75%;
+}
+
+.demo h1
+{
+    padding-bottom: 50px;
+}
