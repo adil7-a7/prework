@@ -1,20 +1,32 @@
-* {
+* 
+{
     margin: 0;
     padding: 0;
 }
 
+<<<<<<< HEAD
 header, footer {
+=======
+header, footer 
+{
+>>>>>>> 3eb409ed33e9cd03dd94e91a03f69e5607dfb4d4
     width: 100%;
     height: 120px;
     background-color: blue;
     color: white;
 }
 
+<<<<<<< HEAD
 h1, h2 {
+=======
+h1,h2 
+{
+>>>>>>> 3eb409ed33e9cd03dd94e91a03f69e5607dfb4d4
     text-align: center;
 }
 
-img {
+img 
+{
     display: block;
     height: 50px;
     width: 50px;
@@ -22,20 +34,28 @@ img {
     margin-right: auto;
 }
 
-ul {
+ul 
+{
     padding-left: 40px;
     font-size: 20px;
 }
 
-p {
+p 
+{
     text-align: center;
     font-size: 30px;
-  } 
+}
 
-  .card {
+.card 
+{
     width: 80%;
     margin: 40px auto;
     border: 5px solid gray;
     box-shadow: 5px 10px #888888;
     border-color: blue;
+<<<<<<< HEAD
   }
+=======
+}
+
+>>>>>>> 3eb409ed33e9cd03dd94e91a03f69e5607dfb4d4
